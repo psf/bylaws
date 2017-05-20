@@ -334,10 +334,10 @@ Each Managing Member shall spend at least five (5) hours per month
 working in their Working Group(s) in order to maintain such member's 
 status as a Managing Member.  
 
-Managing Members must certify each year to the corporation, through a 
-method approved by the Board of Directors, that such member continues 
-to meet the requirements set forth in this Section 4.7 in order to 
-remain a Managing Member for the following year.  
+Managing Members must certify through a method approved by the Board 
+of Directors, that such member continues to meet the requirements set 
+forth in this Section 4.7 in order to remain a Managing Member for the 
+following year.  
 
 Managing Members have voting rights in the corporation and are 
 counted for the purposes of quorum at meetings of the members.  
@@ -354,11 +354,10 @@ on projects that advance the mission of the Python Software
 Foundation, where the work relates to the creation or maintenance of 
 open source software available to the public at no charge. 
 
-Contributing Members must certify each year to the corporation,
-through a method approved by the Board of Directors, that such
-member met and will continue to meet the requirements set forth in 
-this Section 4.8 in order to remain a Contributing Member for the 
-following year.
+Contributing Members must certify through a method approved by the 
+Board of Directors, that such member met and will continue to meet the 
+requirements set forth in this Section 4.8 in order to remain a 
+Contributing Member for the following year.
 
 Contributing Members have voting rights in the corporation and are
 counted for the purposes of quorum at meetings of the members.  
@@ -367,12 +366,13 @@ The Board of Directors may, from time to time, create alternate
 eligibility requirements for Contributing Members.  
 
 **Section 4.9. Fellows.** To be eligible for membership as a Fellow, 
-a member must be nominated by a Fellow of the corporation or a 
+a member must be nominated by a member of the corporation or a 
 specially chartered Working Group, which nomination should be based 
 upon certain criteria to be established by the Board of Directors and
 which criteria shall be designed to emphasize extraordinary
 contributions.  Following such nomination, approval of two-thirds
-(2/3) of the members entitled to vote shall be required in order for
+(2/3) of the members entitled to vote, or two-thirds (2/3) of the 
+members of the chartered Working Group shall be required in order for
 a member to become a Fellow.  Upon election, a Fellow shall remain a
 Fellow for the remainder of such person's natural life, subject to
 any limiting provisions of this document. Fellowship does not continue
@@ -469,18 +469,43 @@ to change the number of directors during a meeting of the members shall
 be deemed to take effect before the election of any individual 
 directors during the same meeting.
 
-**Section 5.5. Election and Term.** Each person named in the 
-Certificate of Incorporation or elected by the incorporator(s) at the 
-organization meeting, as the case may be, as a member of the initial 
-Board of Directors shall hold office until the first annual meeting of
-members and until his or her successor shall have been elected and
-qualified or until his or her earlier resignation, removal or death.
-At the first annual meeting of members and at each annual meeting
-thereafter, the voting members shall elect directors to hold office
-until the next succeeding annual meeting. Each director shall hold
-office for the term for which he or she is elected and until his or
-her successor shall have been elected and qualified or until his or
-her earlier resignation, removal or death.  
+**Section 5.5. Election and Term of at-large Directors.** At the 
+2017 annual meeting of members and at each annual meeting thereafter, 
+the voting members shall elect eleven (11) at-large directors to hold 
+office for a term of up to three years, with each year being counted 
+as complete at the next succeeding annual meeting. There shall be three 
+classes of directors. Class A directors shall have a an initial term 
+extending for three (3) years beginning after the 2017 election of 
+directors. Class B directors shall have a an initial term extending 
+for two (2) years beginning after the 2017 election of directors.  
+Class C directors shall have an initial term extending for one (1) year 
+beginning after the 2017 election of directors. For the 2017 election 
+only, the four candidates receiving the highest number of votes shall 
+be designated class A directors, the four receiving the next highest 
+number of votes shall be designated class B directors, and the three 
+receiving the third highest number of votes shall be designated class 
+C directors. Upon completion of the term beginning after the 2017 
+elections, all classes of directors shall be elected for three-year terms.
+
+Each at-large director shall hold office for the term for 
+which he or she is elected and until his or her successor shall have 
+been elected and qualified or until his or her earlier resignation, 
+removal or death.  
+
+**Section 5.5.1 Election and Term of Officer Directors.** The
+corporation shall have up to two Officer Directors selected from the 
+Officers of the Corporation, with the initial selection of Officer 
+Directors corresponding to the positions of Director of Operations 
+and General Counsel, subject to a vote of the members. Officer 
+directors shall be required to maintain their Officer positions for 
+the duration of their term as Officer Directors on the Board of 
+Directors and shall be subject to approval votes for retention. 
+Approval votes for the retention of Officer Directors shall be held 
+concurrent with the election of other directors on a schedule deemed 
+convenient by the Board, but with no requirement to be more frequent 
+than the election of Class A directors. Officer Directors can also be
+removed subject to a vote of no confidence by the at-large Directors.
+In all other respects Officer Directors shall be as at-large Directors.
 
 **Section 5.6. Resignation and Removal of Directors.** A director may 
 resign at any time upon written request to the corporation. 
@@ -673,18 +698,21 @@ exercise the powers of the President and each other Vice President
 shall only perform whatever duties and have whatever powers the Board 
 of Directors may from time to time assign him or her.  
 
-*Secretary and Assistant Secretary.* The Secretary shall keep accurate records of the acts and
-proceedings of all meetings of the members and directors. The Secretary shall give all notices
-required by law and by these Bylaws. In addition, the Secretary shall have general charge of the
-corporate books and records and of the corporate seal, and he or she shall affix, or attest the
-affixing of, the corporate seal to any lawfully executed instrument requiring it. The Secretary
-shall have general charge of the membership records of the corporation and shall keep, at the
-registered or principal office of the corporation, a record of the Basic Members showing the name
-and email address and a record showing the name, address, telephone number, facsimile number and
-electronic mail address of each member or sponsor delegate with voting rights. The Secretary shall
-sign such instruments as may require his or her signature and, in general, shall perform all duties
-as may be assigned to him or her from time to time by the Chair, the President or the Board of
-Directors.
+*Secretary and Assistant Secretary.* The Secretary shall keep accurate 
+records of the acts and proceedings of all meetings of the members and 
+directors. The Secretary shall give all notices required by law and by 
+these Bylaws. In addition, the Secretary shall have general charge of the
+corporate books and records and of the corporate seal, and he or she shall 
+affix, or attest the affixing of, the corporate seal to any lawfully 
+executed instrument requiring it. The Secretary shall have general charge 
+of the membership records of the corporation and shall keep, at the 
+registered or principal office of the corporation, a record of the Basic 
+Members showing the name and email address and a record showing the name, 
+address, telephone number, facsimile number and electronic mail address 
+of each member or sponsor delegate with voting rights. The Secretary shall
+sign such instruments as may require his or her signature and, in general, 
+shall perform all duties as may be assigned to him or her from time to 
+time by the Chair, the President or the Board of Directors.
 
 The Assistant Secretary, if one is appointed, shall render
 assistance to the Secretary in all the responsibilities described
@@ -722,9 +750,9 @@ of Directors. The fact that an officer is also a director shall not
 preclude such person from receiving compensation as either a 
 director or officer, nor shall it affect the validity of any 
 resolution by the Board of Directors fixing such compensation. The 
-President shall have authority to fix the salaries, if any, of all 
-employees of the corporation, other than officers elected or 
-appointed by the Board of Directors.   
+President or an appointed Delegate shall have authority to fix 
+the salaries, if any, of all employees of the corporation, other than 
+officers elected or appointed by the Board of Directors.   
 
 ARTICLE VII 
 ------
@@ -1020,7 +1048,7 @@ any contract or execute and deliver any instrument on behalf of
 the corporation, and such authority may be general or confined 
 to specific instances.  
 
-**Section 14.6. Counterpart Execution: Facsimile Execution and 
+**Section 14.6. Counterpart Execution.** Facsimile Execution and 
 Electronic Signatures.** Any document requiring the signature of 
 the directors and/or members may be executed in any number of 
 counterparts with the same effect as if all of the required 
@@ -1075,5 +1103,5 @@ member of the Board of Directors without the need for a formal motion.
 
 History
 -------
-* Amended by the PSF board on Ay 16th, 2014.
+* Amended by the PSF board on May 16th, 2014.
 * Approved by the PSF board on February 19th, 2014.
