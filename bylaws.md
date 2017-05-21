@@ -486,7 +486,9 @@ be designated cohort A directors, the four receiving the next highest
 number of votes shall be designated cohort B directors, and the three 
 receiving the third highest number of votes shall be designated cohort 
 C directors. Upon completion of the term beginning after the 2017 
-elections, directors shall be elected for a term sufficient to 
+elections, directors shall be elected for a three-year term, unless
+they are replacing a director that resigned or was removed, in which
+case such directors shall be elected to a term sufficient to 
 complete a three-year term as measured from the term of the original
 cohort.
 
