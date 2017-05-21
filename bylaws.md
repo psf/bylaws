@@ -471,21 +471,24 @@ directors during the same meeting.
 
 **Section 5.5. Election and Term of at-large Directors.** At the 
 2017 annual meeting of members and at each annual meeting thereafter, 
-the voting members shall elect eleven (11) at-large directors to hold 
+the voting members shall elect directors sufficient to fill 
+eleven (11) at-large director seats. At-large directors shall hold 
 office for a term of up to three years, with each year being counted 
 as complete at the next succeeding annual meeting. There shall be three 
-classes of directors. Class A directors shall have a an initial term 
+cohorts of directors. Cohort A directors shall have a an initial term 
 extending for three (3) years beginning after the 2017 election of 
-directors. Class B directors shall have a an initial term extending 
+directors. Cohort B directors shall have a an initial term extending 
 for two (2) years beginning after the 2017 election of directors.  
-Class C directors shall have an initial term extending for one (1) year 
+Cohort C directors shall have an initial term extending for one (1) year 
 beginning after the 2017 election of directors. For the 2017 election 
 only, the four candidates receiving the highest number of votes shall 
-be designated class A directors, the four receiving the next highest 
-number of votes shall be designated class B directors, and the three 
-receiving the third highest number of votes shall be designated class 
+be designated cohort A directors, the four receiving the next highest 
+number of votes shall be designated cohort B directors, and the three 
+receiving the third highest number of votes shall be designated cohort 
 C directors. Upon completion of the term beginning after the 2017 
-elections, all classes of directors shall be elected for three-year terms.
+elections, directors shall be elected for a term sufficient to 
+complete a three-year term as measured from the term of the original
+cohort.
 
 Each at-large director shall hold office for the term for 
 which he or she is elected and until his or her successor shall have 
@@ -503,7 +506,7 @@ Directors and shall be subject to approval votes for retention.
 Approval votes for the retention of Officer Directors shall be held 
 concurrent with the election of other directors on a schedule deemed 
 convenient by the Board, but with no requirement to be more frequent 
-than the election of Class A directors. Officer Directors can also be
+than the election of Cohort A directors. Officer Directors can also be
 removed subject to a vote of no confidence by the at-large Directors.
 In all other respects Officer Directors shall be as at-large Directors.
 
