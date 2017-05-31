@@ -469,33 +469,37 @@ to change the number of directors during a meeting of the members shall
 be deemed to take effect before the election of any individual 
 directors during the same meeting.
 
-**Section 5.5. Election and Term of at-large Directors.** At the 
-2017 annual meeting of members and at each annual meeting thereafter, 
-the voting members shall elect directors sufficient to fill 
-eleven (11) at-large director seats. At-large directors shall hold 
-office for a term of up to three years, with each year being counted 
-as complete at the next succeeding annual meeting. There shall be three 
-cohorts of directors. Cohort A directors shall have a an initial term 
-extending for three (3) years beginning after the 2017 election of 
-directors. Cohort B directors shall have a an initial term extending 
-for two (2) years beginning after the 2017 election of directors.  
-Cohort C directors shall have an initial term extending for one (1) year 
-beginning after the 2017 election of directors. For the 2017 election 
-only, the four candidates receiving the highest number of votes shall 
-be designated cohort A directors, the four receiving the next highest 
-number of votes shall be designated cohort B directors, and the three 
-receiving the third highest number of votes shall be designated cohort 
-C directors. Upon completion of the term beginning after the 2017 
-elections, directors shall be elected for a three-year term, unless
-they are replacing a director that resigned or was removed, in which
-case such directors shall be elected to a term sufficient to 
-complete a three-year term as measured from the term of the original
-cohort.
+**Section 5.5. Election and Term of at-large Directors.** At the
+2017 annual meeting of members and at each annual meeting thereafter,
+the voting members shall elect directors sufficient to fill
+eleven (11) at-large director seats. At-large directors shall hold
+office for a term of up to three years, with each year being counted
+as complete at the next succeeding annual meeting. There shall be three
+cohorts of directors. Cohort A directors shall have a an initial term
+extending for three (3) years beginning after the 2017 election of
+directors. Cohort B directors shall have a an initial term extending
+for two (2) years beginning after the 2017 election of directors. 
+Cohort C directors shall have an initial term extending for one (1) year
+beginning after the 2017 election of directors. For the 2017 election
+only, the four candidates receiving the highest number of votes shall
+be designated Cohort A directors, the four receiving the next highest
+number of votes shall be designated Cohort B directors, and the three
+receiving the third highest number of votes shall be designated Cohort
+C directors. 
 
 Each at-large director shall hold office for the term for 
 which he or she is elected and until his or her successor shall have 
 been elected and qualified or until his or her earlier resignation, 
-removal or death.  
+removal or death. 
+
+Upon completion of the term beginning after the 2017 elections, 
+directors shall be elected for a three-year term, unless they are 
+replacing a director that resigned or was removed, in which case such 
+replacement directors shall be elected to a term sufficient to
+complete a three-year term as measured from the term of the original
+cohort. Replacement directors shall be chosen in order of the number
+of votes received, with the longest terms of service being allocated
+to candidates according to the number of votes received.
 
 **Section 5.5.1 Election and Term of Officer Directors.** The
 corporation shall have up to two Officer Directors selected from the 
