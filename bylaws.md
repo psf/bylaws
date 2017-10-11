@@ -196,13 +196,6 @@ may vote either:
   transmission must either set forth or be submitted with 
   information from which it can be determined that the electronic 
   transmission was authorized by the member or proxy holder.  
- 
-In addition to the other matters set forth herein, in the General 
-Corporation Law of the State of Delaware, or as may from time to 
-time be determined by the Board of Directors, the voting members 
-shall have the right to vote on the admission of new Sponsor
-Members, the chartering of new Working Groups, and Sponsor Member
-benefits proposed by Working Groups.  
 
 **Section 3.11. Proxies.** Every member entitled to vote at a 
 meeting of members or to express consent or dissent to corporate 
@@ -245,7 +238,7 @@ ARTICLE IV
 
 **Section 4.1. Member Classes.** There are six (6) classes of members 
 of the corporation, denoted as Basic Members, Supporting Members, 
-Sponsor Members, Managing Members, Contributing Members and Fellows.
+Managing Members, Contributing Members and Fellows.
 
 **Section 4.2.  Voting Members.**  Members of any membership class 
 with voting rights must affirm each year to the corporation in writing
@@ -294,35 +287,7 @@ corporation as of the adoption of these Bylaws shall automatically
 become a Supporting Member without any further action on the part of
 such member or the corporation.  
 
-**Section 4.6. Sponsor Members.** A Sponsor Member is any entity 
-(excluding natural persons) that is approved by the voting members 
-and pays a yearly fee to the corporation, which fee shall be set 
-annually by the Board of Directors. Sponsor Members shall have the 
-right to designate a certain number of individuals as Sponsor 
-Delegates, which number shall be set by the Board of Directors and 
-shall be based upon the fee paid by such Sponsor Member.  Although 
-Sponsor Members do not have voting rights in the corporation, Sponsor 
-Delegates have voting rights in the corporation and are included in 
-the membership count made for the purposes of quorum at meetings of 
-the members.  
-
-The voting rights held by a Sponsor Delegate are separate and apart
-from, and in addition to, any voting rights such Sponsor Delegate
-may have individually as a member of the corporation.  
-
-The initial yearly fee is due upon admission to the corporation as a 
-Sponsor Member on a pro-rata basis for the remainder of the fiscal 
-year. Thereafter, the yearly fee is due upon the beginning of each 
-fiscal year. From the due date, until the fee is paid, all membership
-rights of the Sponsor Member (including the voting rights of any
-Sponsor Delegate designated by such Sponsor Member) are suspended
-until the Sponsor Member's yearly fee has been paid in full.  
-
-The Directors may, if they choose, define several different grades of
-Sponsor Member, each with a different yearly fee and receiving
-different benefits as determined by the Directors.  
-
-**Section 4.7. Managing Members.** To be eligible for membership as 
+**Section 4.6. Managing Members.** To be eligible for membership as 
 a Managing Member, a person must declare their intention to be a 
 Managing Member to the corporation in writing, by e-mail or through 
 other electronic means approved by the Board of Directors and such 
@@ -345,7 +310,7 @@ counted for the purposes of quorum at meetings of the members.
 The Board of Directors may, from time to time, create alternate 
 eligibility requirements for Managing Members.
 
-**Section 4.8. Contributing Members.** To be eligible for membership 
+**Section 4.7. Contributing Members.** To be eligible for membership 
 as a Contributing Member, a person must declare their intention to be 
 a Contributing Member to the corporation in writing, by e-mail or
 through other electronic means approved by the Board of Directors
@@ -365,7 +330,7 @@ counted for the purposes of quorum at meetings of the members.
 The Board of Directors may, from time to time, create alternate
 eligibility requirements for Contributing Members.  
 
-**Section 4.9. Fellows.** To be eligible for membership as a Fellow, 
+**Section 4.8. Fellows.** To be eligible for membership as a Fellow, 
 a member must be nominated by a member of the corporation or a 
 specially chartered Working Group, which nomination should be based 
 upon certain criteria to be established by the Board of Directors and
@@ -380,7 +345,7 @@ during any extension of life by non-natural means, such as zombification
 or vampirism. Fellows may exercise voting rights at any time, and if
 they vote, shall be counted for purposes of a quorum.
 
-**Section 4.10. Voting Rights for Fellows; Automatic Conversion.** 
+**Section 4.09. Voting Rights for Fellows; Automatic Conversion.** 
 Fellows have voting rights in the corporation. Fellows are always considered
 voting members as per section 4.2. Fellows are not subject to section 4.12.
 Any nominated member of the corporation as of the adoption of these Bylaws
@@ -388,7 +353,7 @@ shall automatically become a Fellow without any further action on the part
 of such member or the corporation unless such member affirmatively declines
 such right in writing to the corporation.
 
-**Section 4.11. Voting Rights for Members of Multiple Membership 
+**Section 4.10. Voting Rights for Members of Multiple Membership 
 Classes.** In the event that a member qualifies as a member of more 
 than one membership class (e.g. a member is both a Supporting Member 
 and a Managing Member), such member shall only have one (1) vote with 
@@ -397,45 +362,39 @@ classes thereof; provided that Sponsor Delegates shall have votes as
 Sponsor Delegates in addition to any vote that such Sponsor Delegate 
 otherwise has as a voting member.
 
-**Section 4.12. Loss of Voting Rights.**  A voting member who does not 
+**Section 4.11. Loss of Voting Rights.**  A voting member who does not 
 cast a vote for four (4) votes within a single calendar year shall 
 immediately have his or her voting rights revoked for the remainder of 
 such year.  
 
-**Section 4.13. Voluntary Conversion of Membership to Basic Status.** 
+**Section 4.12. Voluntary Conversion of Membership to Basic Status.** 
 Members may convert their membership to Basic Member status at any 
 time upon ten (10) days written, signed notice delivered to an 
 officer of the corporation.  
 
-**Section 4.14. Involuntary Conversion of Membership to Basic Status.** 
+**Section 4.13. Involuntary Conversion of Membership to Basic Status.** 
 The membership of a member shall automatically be converted to Basic
 Member status upon the occurrence of any event causing such member
 to no longer qualify as a member of any membership class other than
 as a Basic Member.  
 
-**Section 4.15. Voluntary Withdrawal from Membership.** Members 
+**Section 4.14. Voluntary Withdrawal from Membership.** Members 
 may withdraw from membership in the corporation at any time upon 
 ten (10) days' written, signed notice delivered to an officer of 
 the corporation.  
 
-**Section 4.16. Termination of Membership.** A member's membership 
+**Section 4.15. Termination of Membership.** A member's membership 
 may be terminated by an affirmative vote of two-thirds (2/3) of the 
 members of the corporation who are present and eligible to vote at 
-the meeting. A Sponsor Member's membership shall be automatically 
-terminated if the Sponsor Member's yearly fee has not been paid 
-following three (3) past due notices to the contact of record.
+the meeting.
 
-**Section 4.17. Effect of Withdrawal from or Termination of 
+**Section 4.16. Effect of Withdrawal from or Termination of 
 Membership.** Upon any withdrawal from or termination of the 
 membership of any member, the membership, including all related 
 voting rights, of such member shall be terminated. After a
 withdrawal or termination of the membership of any member, such 
 former member may reapply for membership in accordance with Section
-4.3 of these Bylaws. If a Sponsor Member is involuntarily terminated
-from membership, then the Sponsor Member shall be returned a pro-rata
-portion of the yearly fee based on the date of termination and
-the time remaining in the year for which payment has already been
-made.  
+4.3 of these Bylaws.
 
 ARTICLE V
 ------
