@@ -286,9 +286,7 @@ corporation as of the adoption of these Bylaws shall automatically
 become a Supporting Member without any further action on the part of
 such member or the corporation.  
 
-**Section 4.6** Removed.
-
-**Section 4.7. Managing Members.** To be eligible for membership as 
+**Section 4.6. Managing Members.** To be eligible for membership as 
 a Managing Member, a person must declare their intention to be a 
 Managing Member to the corporation in writing, by e-mail or through 
 other electronic means approved by the Board of Directors and such 
@@ -311,7 +309,7 @@ counted for the purposes of quorum at meetings of the members.
 The Board of Directors may, from time to time, create alternate 
 eligibility requirements for Managing Members.
 
-**Section 4.8. Contributing Members.** To be eligible for membership 
+**Section 4.7. Contributing Members.** To be eligible for membership 
 as a Contributing Member, a person must declare their intention to be 
 a Contributing Member to the corporation in writing, by e-mail or
 through other electronic means approved by the Board of Directors
@@ -332,7 +330,7 @@ counted for the purposes of quorum at meetings of the members.
 The Board of Directors may, from time to time, create alternate
 eligibility requirements for Contributing Members.  
 
-**Section 4.9. Fellows.** To be eligible for membership as a Fellow, 
+**Section 4.8. Fellows.** To be eligible for membership as a Fellow, 
 a member must be nominated by a Fellow of the corporation or a 
 specially chartered Working Group, which nomination should be based 
 upon certain criteria to be established by the Board of Directors and
@@ -346,7 +344,7 @@ during any extension of life by non-natural means, such as zombification
 or vampirism. Fellows may exercise voting rights at any time, and if
 they vote, shall be counted for purposes of a quorum.
 
-**Section 4.10. Voting Rights for Fellows; Automatic Conversion.** 
+**Section 4.09. Voting Rights for Fellows; Automatic Conversion.** 
 Fellows have voting rights in the corporation. Fellows are always considered
 voting members as per section 4.2. Fellows are not subject to section 4.12.
 Any nominated member of the corporation as of the adoption of these Bylaws
@@ -354,40 +352,40 @@ shall automatically become a Fellow without any further action on the part
 of such member or the corporation unless such member affirmatively declines
 such right in writing to the corporation.
 
-**Section 4.11. Voting Rights for Members of Multiple Membership 
+**Section 4.10. Voting Rights for Members of Multiple Membership 
 Classes.** In the event that a member qualifies as a member of more 
 than one membership class (e.g. a member is both a Supporting Member 
 and a Managing Member), such member shall only have one (1) vote with 
 respect to any action requiring the approval of the members or certain 
 classes thereof.
 
-**Section 4.12. Loss of Voting Rights.**  A voting member who does not 
+**Section 4.11. Loss of Voting Rights.**  A voting member who does not 
 cast a vote for four (4) votes within a single calendar year shall 
 immediately have his or her voting rights revoked for the remainder of 
 such year.  
 
-**Section 4.13. Voluntary Conversion of Membership to Basic Status.** 
+**Section 4.12. Voluntary Conversion of Membership to Basic Status.** 
 Members may convert their membership to Basic Member status at any 
 time upon ten (10) days written, signed notice delivered to an 
 officer of the corporation.  
 
-**Section 4.14. Involuntary Conversion of Membership to Basic Status.** 
+**Section 4.13. Involuntary Conversion of Membership to Basic Status.** 
 The membership of a member shall automatically be converted to Basic
 Member status upon the occurrence of any event causing such member
 to no longer qualify as a member of any membership class other than
 as a Basic Member.  
 
-**Section 4.15. Voluntary Withdrawal from Membership.** Members 
+**Section 4.14. Voluntary Withdrawal from Membership.** Members 
 may withdraw from membership in the corporation at any time upon 
 ten (10) days' written, signed notice delivered to an officer of 
 the corporation.  
 
-**Section 4.16. Termination of Membership.** A member's membership 
+**Section 4.15. Termination of Membership.** A member's membership 
 may be terminated by an affirmative vote of two-thirds (2/3) of the 
 members of the corporation who are present and eligible to vote at 
 the meeting.
 
-**Section 4.17. Effect of Withdrawal from or Termination of 
+**Section 4.16. Effect of Withdrawal from or Termination of 
 Membership.** Upon any withdrawal from or termination of the 
 membership of any member, the membership, including all related 
 voting rights, of such member shall be terminated. After a
