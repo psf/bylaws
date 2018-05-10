@@ -2,7 +2,7 @@ Bylaws of the Python Software Foundation, Version 2
 ===================================================
 
 ARTICLE I 
--------------
+-----
 ### Business Offices
 
 The corporation shall have such offices either within or outside the 
@@ -11,7 +11,7 @@ Board of Directors may from time to time determine or as the business
 of the corporation may require.
 
 ARTICLE II
--------------  
+-----  
 ### Registered Offices and Registered Agents
 
 **Section 2.1. Delaware.** The address of the initial registered
@@ -32,7 +32,7 @@ process at such address in the manner provided by the law of the state
 in which the corporation elects to be qualified.  
 
 ARTICLE III 
--------------
+-----
 ### Meetings of Members  
 
 **Section 3.1. Place of Meetings.** Meetings of the members shall be 
@@ -231,7 +231,7 @@ by less than unanimous written consent shall be given to those voting
 members who have not consented in writing.
 
 ARTICLE IV
--------------
+-----
 
 ### Members
 
@@ -298,10 +298,10 @@ Each Managing Member shall spend at least five (5) hours per month
 working in their Working Group(s) in order to maintain such member's 
 status as a Managing Member.  
 
-Managing Members must certify each year to the corporation, through a 
-method approved by the Board of Directors, that such member continues 
-to meet the requirements set forth in this Section 4.7 in order to 
-remain a Managing Member for the following year.  
+Managing Members must certify through a method approved by the Board 
+of Directors, that such member continues to meet the requirements set 
+forth in this Section 4.6 in order to remain a Managing Member for the 
+following year.    
 
 Managing Members have voting rights in the corporation and are 
 counted for the purposes of quorum at meetings of the members.  
@@ -318,11 +318,10 @@ on projects that advance the mission of the Python Software
 Foundation, where the work relates to the creation or maintenance of 
 open source software available to the public at no charge. 
 
-Contributing Members must certify each year to the corporation,
-through a method approved by the Board of Directors, that such
-member met and will continue to meet the requirements set forth in 
-this Section 4.8 in order to remain a Contributing Member for the 
-following year.
+Contributing Members must certify through a method approved by the 
+Board of Directors, that such member met and will continue to meet the 
+requirements set forth in this Section 4.7 in order to remain a 
+Contributing Member for the following year.
 
 Contributing Members have voting rights in the corporation and are
 counted for the purposes of quorum at meetings of the members.  
@@ -394,7 +393,7 @@ former member may reapply for membership in accordance with Section
 4.3 of these Bylaws.
 
 ARTICLE V
--------------
+-----
 ### Directors  
 
 **Section 5.1. Powers.** The business and affairs of the corporation 
@@ -615,7 +614,7 @@ person owns at least 1% of the equity or debt, or derivatives
 thereof, of an entity.  
 
 ARTICLE VI 
--------------
+-----
 ### Officers  
 
 **Section 6.1. Officers.** The officers of the corporation shall 
@@ -719,7 +718,7 @@ the salaries, if any, of all employees of the corporation, other than
 officers elected or appointed by the Board of Directors.
 
 ARTICLE VII 
--------------
+-----
 ### Working Groups  
 
 **Section 7.1. Creation** The Board of Directors or voting members of 
@@ -768,7 +767,7 @@ policies or procedures which apply to them.
 may, by resolution, dissolve a Working Group at any time.
 
 ARTICLE VIII
--------------
+-----
 
 ### Books and Records  
 
@@ -798,7 +797,7 @@ membership records and its other books and records and to make
 copies or extracts therefrom.  
 
 ARTICLE IX
-------------- 
+----- 
 ### Nonprofit Status
 
 The corporation is organized and shall be operated as a 
@@ -815,7 +814,7 @@ the IRC as an organization described in Section 501(c) of the IRC or
 incur excise taxes under Section 4958 or Chapter 42 of the IRC.
 
 ARTICLE X
--------------  
+-----  
 
 ### Corporate Seal
 
@@ -824,7 +823,7 @@ have the name of the corporation inscribed thereon, and may be a
 facsimile, engraved, printed, or an impression seal.  
 
 ARTICLE XI
--------------
+-----
 
 ### Amendment  
 
@@ -841,7 +840,7 @@ corporation of such alteration, amendment or repeal at least fifteen
 or repeal, which notice may be by electronic means.  
 
 ARTICLE XII
-------------- 
+----- 
 ### Limits on Liability of Directors  
 
 To the fullest extent permitted by the General Corporation Law of 
@@ -851,7 +850,7 @@ liable to the corporation or its members for monetary damages for
 breach of fiduciary duty as a director.  
 
 ARTICLE XIII
--------------
+-----
 ### Indemnification of Officers and Directors  
 
 **Section 13.1. Right to Indemnification.** Each person who was or 
@@ -982,7 +981,7 @@ officer or member and shall inure to the benefit of the heirs,
 executors and administrators of such person.  
 
 ARTICLE XIV 
--------------
+-----
 
 ### General Provisions  
 
@@ -1066,7 +1065,7 @@ grammatical, or spelling mistakes may be made at the direction of any
 member of the Board of Directors without the need for a formal motion.
 
 History
---------------
+------
 * Amended by the PSF board on May 16th, 2014.
 * Approved by the PSF board on February 19th, 2014.
 * Amendments adopted by vote of the membership, June 10, 2017.
