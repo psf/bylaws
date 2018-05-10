@@ -2,7 +2,7 @@ Bylaws of the Python Software Foundation, Version 2
 ===================================================
 
 ARTICLE I 
-------
+-------------
 ### Business Offices
 
 The corporation shall have such offices either within or outside the 
@@ -11,7 +11,7 @@ Board of Directors may from time to time determine or as the business
 of the corporation may require.
 
 ARTICLE II
-------  
+-------------  
 ### Registered Offices and Registered Agents
 
 **Section 2.1. Delaware.** The address of the initial registered
@@ -32,7 +32,7 @@ process at such address in the manner provided by the law of the state
 in which the corporation elects to be qualified.  
 
 ARTICLE III 
-------
+-------------
 ### Meetings of Members  
 
 **Section 3.1. Place of Meetings.** Meetings of the members shall be 
@@ -231,7 +231,7 @@ by less than unanimous written consent shall be given to those voting
 members who have not consented in writing.
 
 ARTICLE IV
-------
+-------------
 
 ### Members
 
@@ -394,7 +394,7 @@ former member may reapply for membership in accordance with Section
 4.3 of these Bylaws.
 
 ARTICLE V
-------
+-------------
 ### Directors  
 
 **Section 5.1. Powers.** The business and affairs of the corporation 
@@ -424,18 +424,52 @@ to change the number of directors during a meeting of the members shall
 be deemed to take effect before the election of any individual 
 directors during the same meeting.
 
-**Section 5.5. Election and Term.** Each person named in the 
-Certificate of Incorporation or elected by the incorporator(s) at the 
-organization meeting, as the case may be, as a member of the initial 
-Board of Directors shall hold office until the first annual meeting of
-members and until his or her successor shall have been elected and
-qualified or until his or her earlier resignation, removal or death.
-At the first annual meeting of members and at each annual meeting
-thereafter, the voting members shall elect directors to hold office
-until the next succeeding annual meeting. Each director shall hold
-office for the term for which he or she is elected and until his or
-her successor shall have been elected and qualified or until his or
-her earlier resignation, removal or death.  
+**Section 5.5. Election and Term of at-large Directors.** At the
+2017 annual meeting of members and at each annual meeting thereafter,
+the voting members shall elect directors sufficient to fill
+eleven (11) at-large director seats. At-large directors shall hold
+office for a term of up to three years, with each year being counted
+as complete at the next succeeding annual meeting. There shall be three
+cohorts of directors. Cohort A directors shall have a an initial term
+extending for three (3) years beginning after the 2017 election of
+directors. Cohort B directors shall have a an initial term extending
+for two (2) years beginning after the 2017 election of directors. 
+Cohort C directors shall have an initial term extending for one (1) year
+beginning after the 2017 election of directors. For the 2017 election
+only, the four candidates receiving the highest number of votes shall
+be designated Cohort A directors, the four receiving the next highest
+number of votes shall be designated Cohort B directors, and the three
+receiving the third highest number of votes shall be designated Cohort
+C directors. 
+
+Each at-large director shall hold office for the term for 
+which he or she is elected and until his or her successor shall have 
+been elected and qualified or until his or her earlier resignation, 
+removal or death. 
+
+Upon completion of the term beginning after the 2017 elections, 
+directors shall be elected for a three-year term, unless they are 
+replacing a director that resigned or was removed, in which case such 
+replacement directors shall be elected to a term sufficient to
+complete a three-year term as measured from the term of the original
+cohort. Replacement directors shall be chosen in order of the number
+of votes received, with the longest terms of service being allocated
+to candidates according to the number of votes received.
+
+**Section 5.5.1 Election and Term of Officer Directors.** The
+corporation shall have up to two Officer Directors selected from the 
+Officers of the Corporation, with the initial selection of Officer 
+Directors corresponding to the positions of Director of Operations 
+and General Counsel, subject to a vote of the members. Officer 
+directors shall be required to maintain their Officer positions for 
+the duration of their term as Officer Directors on the Board of 
+Directors and shall be subject to approval votes for retention. 
+Approval votes for the retention of Officer Directors shall be held 
+concurrent with the election of other directors on a schedule deemed 
+convenient by the Board, but with no requirement to be more frequent 
+than the election of Cohort A directors. Officer Directors can also be
+removed subject to a vote of no confidence by the at-large Directors.
+In all other respects Officer Directors shall be as at-large Directors.  
 
 **Section 5.6. Resignation and Removal of Directors.** A director may 
 resign at any time upon written request to the corporation. 
@@ -581,7 +615,7 @@ person owns at least 1% of the equity or debt, or derivatives
 thereof, of an entity.  
 
 ARTICLE VI 
-------
+-------------
 ### Officers  
 
 **Section 6.1. Officers.** The officers of the corporation shall 
@@ -628,18 +662,21 @@ exercise the powers of the President and each other Vice President
 shall only perform whatever duties and have whatever powers the Board 
 of Directors may from time to time assign him or her.  
 
-*Secretary and Assistant Secretary.* The Secretary shall keep accurate records of the acts and
-proceedings of all meetings of the members and directors. The Secretary shall give all notices
-required by law and by these Bylaws. In addition, the Secretary shall have general charge of the
-corporate books and records and of the corporate seal, and he or she shall affix, or attest the
-affixing of, the corporate seal to any lawfully executed instrument requiring it. The Secretary
-shall have general charge of the membership records of the corporation and shall keep, at the
-registered or principal office of the corporation, a record of the Basic Members showing the name
-and email address and a record showing the name, address, telephone number, facsimile number and
-electronic mail address of each member with voting rights. The Secretary shall
-sign such instruments as may require his or her signature and, in general, shall perform all duties
-as may be assigned to him or her from time to time by the Chair, the President or the Board of
-Directors.
+*Secretary and Assistant Secretary.* The Secretary shall keep accurate 
+records of the acts and proceedings of all meetings of the members and 
+directors. The Secretary shall give all notices required by law and by 
+these Bylaws. In addition, the Secretary shall have general charge of the
+corporate books and records and of the corporate seal, and he or she shall 
+affix, or attest the affixing of, the corporate seal to any lawfully 
+executed instrument requiring it. The Secretary shall have general charge 
+of the membership records of the corporation and shall keep, at the 
+registered or principal office of the corporation, a record of the Basic 
+Members showing the name and email address and a record showing the name, 
+address, telephone number, facsimile number and electronic mail address 
+of each member or sponsor delegate with voting rights. The Secretary shall
+sign such instruments as may require his or her signature and, in general, 
+shall perform all duties as may be assigned to him or her from time to 
+time by the Chair, the President or the Board of Directors.
 
 The Assistant Secretary, if one is appointed, shall render
 assistance to the Secretary in all the responsibilities described
@@ -677,12 +714,12 @@ of Directors. The fact that an officer is also a director shall not
 preclude such person from receiving compensation as either a 
 director or officer, nor shall it affect the validity of any 
 resolution by the Board of Directors fixing such compensation. The 
-President shall have authority to fix the salaries, if any, of all 
-employees of the corporation, other than officers elected or 
-appointed by the Board of Directors.   
+President or an appointed Delegate shall have authority to fix 
+the salaries, if any, of all employees of the corporation, other than 
+officers elected or appointed by the Board of Directors.
 
 ARTICLE VII 
-------
+-------------
 ### Working Groups  
 
 **Section 7.1. Creation** The Board of Directors or voting members of 
@@ -731,7 +768,7 @@ policies or procedures which apply to them.
 may, by resolution, dissolve a Working Group at any time.
 
 ARTICLE VIII
-------
+-------------
 
 ### Books and Records  
 
@@ -761,7 +798,7 @@ membership records and its other books and records and to make
 copies or extracts therefrom.  
 
 ARTICLE IX
------- 
+------------- 
 ### Nonprofit Status
 
 The corporation is organized and shall be operated as a 
@@ -778,7 +815,7 @@ the IRC as an organization described in Section 501(c) of the IRC or
 incur excise taxes under Section 4958 or Chapter 42 of the IRC.
 
 ARTICLE X
-------  
+-------------  
 
 ### Corporate Seal
 
@@ -787,7 +824,7 @@ have the name of the corporation inscribed thereon, and may be a
 facsimile, engraved, printed, or an impression seal.  
 
 ARTICLE XI
-------
+-------------
 
 ### Amendment  
 
@@ -804,7 +841,7 @@ corporation of such alteration, amendment or repeal at least fifteen
 or repeal, which notice may be by electronic means.  
 
 ARTICLE XII
------- 
+------------- 
 ### Limits on Liability of Directors  
 
 To the fullest extent permitted by the General Corporation Law of 
@@ -814,7 +851,7 @@ liable to the corporation or its members for monetary damages for
 breach of fiduciary duty as a director.  
 
 ARTICLE XIII
-------
+-------------
 ### Indemnification of Officers and Directors  
 
 **Section 13.1. Right to Indemnification.** Each person who was or 
@@ -945,7 +982,7 @@ officer or member and shall inure to the benefit of the heirs,
 executors and administrators of such person.  
 
 ARTICLE XIV 
-------
+-------------
 
 ### General Provisions  
 
@@ -1029,7 +1066,8 @@ grammatical, or spelling mistakes may be made at the direction of any
 member of the Board of Directors without the need for a formal motion.
 
 History
--------
+--------------
 * Amended by the PSF board on May 16th, 2014.
 * Approved by the PSF board on February 19th, 2014.
 * Amendments adopted by vote of the membership, June 10, 2017.
+
