@@ -626,7 +626,7 @@ of co-affiliated directors goes above the limit due to a change in
 employment or a corporate acquisition, then, unless otherwise agreed
 between the co-affiliated members, the longest-serving member(s)
 of the Board of Directors sharing that affiliation must resign before
-the next election of at-large members to bring the total number of 
+the next meeting of the Board of Directors to bring the total number of 
 co-affiliated directors below the limit.
 
 A person who would bring the Board of Directors above the limit on
