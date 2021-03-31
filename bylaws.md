@@ -623,7 +623,8 @@ thereof, of an entity.
 than one quarter (1/4) of the members of the Board of Directors may
 share a common affiliation as defined in Section 5.14. If the number
 of co-affiliated directors goes above the limit due to a change in
-employment or a corporate acquisition, then the longest-serving member(s)
+employment or a corporate acquisition, then, unless otherwise agreed
+between the co-affiliated members, the longest-serving member(s)
 of the Board of Directors sharing that affiliation must resign before
 the next election of at-large members to bring the total number of 
 co-affiliated directors below the limit.
