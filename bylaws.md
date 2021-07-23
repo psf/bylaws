@@ -330,18 +330,18 @@ The Board of Directors may, from time to time, create alternate
 eligibility requirements for Contributing Members.
 
 **Section 4.8. Fellows.** To be eligible for membership as a Fellow, 
-a member must be nominated by a Fellow of the corporation or a 
-specially chartered Working Group, which nomination should be based 
-upon certain criteria to be established by the Board of Directors and
-which criteria shall be designed to emphasize extraordinary
-contributions.  Following such nomination, approval of two-thirds
-(2/3) of the members entitled to vote shall be required in order for
-a member to become a Fellow.  Upon election, a Fellow shall remain a
-Fellow for the remainder of such person's natural life, subject to
-any limiting provisions of this document. Fellowship does not continue
-during any extension of life by non-natural means, such as zombification
-or vampirism. Fellows may exercise voting rights at any time, and if
-they vote, shall be counted for purposes of a quorum.
+a member must be nominated by any Member of the corporation other
+than a Basic Member, or by a specially chartered Working Group, which 
+nomination should be based upon certain criteria to be established by 
+the Board of Directors and which criteria shall be designed to emphasize 
+extraordinary contributions. Following such nomination, approval of two-
+thirds (2/3) of the members entitled to vote, or two-thirds (2/3) of the 
+members of the chartered Working Group, or two-thirds (2/3) of the Board of 
+Directors, shall be required in order for a member to become 
+a Fellow. Upon election, a Fellow shall remain a Fellow for the remainder of 
+such person's natural life, subject to any limiting provisions of this 
+document. Fellows may exercise voting rights at any time, and if they vote, 
+shall be counted for purposes of a quorum.
 
 **Section 4.09. Voting Rights for Fellows; Automatic Conversion.** 
 Fellows have voting rights in the corporation. Fellows are always considered
