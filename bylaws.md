@@ -337,7 +337,7 @@ the Board of Directors and which criteria shall be designed to emphasize
 extraordinary contributions. Following such nomination, approval of two-
 thirds (2/3) of the members entitled to vote, or two-thirds (2/3) of the 
 members of the chartered Working Group, or two-thirds (2/3) of the Board of 
-Directors,shall be required shall be required in order for a member to become 
+Directors, shall be required in order for a member to become 
 a Fellow. Upon election, a Fellow shall remain a Fellow for the remainder of 
 such person's natural life, subject to any limiting provisions of this 
 document. Fellows may exercise voting rights at any time, and if they vote, 
