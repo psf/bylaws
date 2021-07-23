@@ -1094,4 +1094,5 @@ History
 * Amended by the PSF board on May 16th, 2014.
 * Approved by the PSF board on February 19th, 2014.
 * Amendments adopted by vote of the membership, June 10, 2017.
+* Amendments adopted by vote of the membership, July 23, 2021.
 
