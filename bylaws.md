@@ -455,6 +455,12 @@ cohort. Replacement directors shall be chosen in order of the number
 of votes received, with the longest terms of service being allocated
 to candidates according to the number of votes received.
 
+Persons elected as at-large directors are considered to be seated
+in order from most votes received to the least. If a person who would
+otherwise be elected withdraws or becomes ineligible before that person
+is seated as a director, then the person receiving the next highest
+number of votes is selected.
+
 **Section 5.5.1 Election and Term of Officer Directors.** The
 corporation shall have up to two Officer Directors selected from the 
 Officers of the Corporation, with the initial selection of Officer 
@@ -608,10 +614,29 @@ changes while serving on the Board of Directors, such new
 affiliation shall be immediately made known to the membership. For 
 the purposes of this section, a Board Member or prospective Board 
 Member has an affiliation if that person is an employee, officer, 
-or member of the Board of Directors of an entity; or if that person 
+or member of the Board of Directors of an entity; if that person 
 has a significant consulting relationship with an entity; or that 
 person owns at least 1% of the equity or debt, or derivatives 
-thereof, of an entity.
+thereof, of an entity. 
+
+**Section 5.15. Limits on Co-affiliation of Board Members.** No more
+than one quarter (1/4) of the members of the Board of Directors may
+share a common affiliation as defined in Section 5.14. If the number
+of co-affiliated directors goes above the limit due to a change in
+employment or a corporate acquisition, then, unless otherwise agreed
+between the co-affiliated members, the longest-serving member(s)
+of the Board of Directors sharing that affiliation must resign before
+the next meeting of the Board of Directors to bring the total number of 
+co-affiliated directors below the limit. 
+
+A person who would bring the Board of Directors above the limit on
+co-affiliation is ineligible to be seated or appointed.
+
+For purposes of this Section, a common affiliation includes all 
+organizations that, directly or indirectly through one or more 
+intermediaries, controls, is controlled by, or is under common control 
+with the other entities declared as affiliations by other members
+of the Board of Directors.
 
 ARTICLE VI 
 ----
