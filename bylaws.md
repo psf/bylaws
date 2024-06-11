@@ -254,7 +254,9 @@ voting privileges revoked pursuant to Section 4.12.
 **Section 4.3. Admission of Members.** A person or organization 
 desiring membership must complete a written or electronic membership 
 application in such form as shall be adopted by the Board of Directors 
-from time to time. Upon submission of a membership application, the 
+from time to time. The applicant must abide by the corporation's Code 
+of Conduct and meet any other qualifications established by the Board 
+of Directors. Upon submission of a membership application, a qualified
 applicant shall be automatically admitted as a Basic Member unless such 
 member simultaneously fulfills the requirements to be admitted as a 
 member of another membership class.
@@ -383,6 +385,15 @@ the corporation.
 may be terminated by an affirmative vote of two-thirds (2/3) of the 
 members of the corporation who are present and eligible to vote at 
 the meeting.
+
+A Member's (including any Fellow's) membership may be terminated for 
+failure to meet any condition of membership (including violation of
+the Code of Conduct or non-payment of membership fees) by an 
+affirmative vote of the majority of the Board of Directors. The Board
+shall give the Member at least 15 days’ notice of the termination and
+the reasons for the termination, and an opportunity for the Member to 
+be heard by the Board, orally or in writing at the Board’s decision, 
+at least five days before the effective date of the termination.
 
 **Section 4.16. Effect of Withdrawal from or Termination of 
 Membership.** Upon any withdrawal from or termination of the 
