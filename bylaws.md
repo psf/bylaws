@@ -253,8 +253,7 @@ any other member with voting rights; provided that it shall not
 include any member who (i) for any given year has not affirmatively 
 indicated to the corporation that such member intends to be a 
 voting member for such year and is not subject to a waiver of the 
-affirmation requirement, or (ii) has had such member's voting and is 
-not subject to a waiver of the affirmation requirement privileges
+affirmation requirement, or (ii) has had such member's voting privileges
 revoked pursuant to Section 4.12.
 
 **Section 4.3. Admission of Members.** A person or organization 
