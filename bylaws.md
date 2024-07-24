@@ -967,7 +967,7 @@ or her and incurred by him or her in any such capacity, or
 arising out of his or her status as such, whether or not the 
 corporation would have the power to indemnify him or her 
 against such liability under the provisions of this Article 
-or of applicable law. The corporation may purchase and 
+or of applicable law. The corporation shall purchase and 
 maintain general liability insurance, supplemented as 
 necessary to cover any special events the corporation may hold.
 
