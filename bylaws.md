@@ -940,24 +940,24 @@ that the claimant has not met such applicable standard of conduct,
 shall be a defense to the action or create a presumption that the 
 claimant has not met the applicable standard of conduct.
 
-**Section 13.4. Contract Rights.** The provisions of this Article
-shall be a contract between the corporation and each director,
-officer or member to which this Article applies. No repeal or
-modification of these Bylaws shall invalidate or detract from any
-right or obligation with respect to any state of facts existing
-prior to the time of such repeal or modification.
+**Section 13.4. Contract Rights.** The provisions of this Article 
+shall be a contract between the corporation and each director, 
+officer or member to which this Article applies. No repeal or 
+modification of these Bylaws shall invalidate or detract from any 
+right or obligation with respect to any state of facts existing 
+prior to the time of such repeal or modification. 
 
 **Section 13.5. Rights Non-exclusive.** The indemnification and 
 advancement of expenses provided by or granted pursuant to this 
 Article shall not be deemed exclusive of any other rights to
-which those seeking indemnification or advancement of
+ which those seeking indemnification or advancement of
 expenses may be entitled under any bylaw, agreement, vote of members
 or disinterested directors or otherwise, both as to action in his or
 her official capacity and as to action in another capacity while
 holding such office.
 
-**Section 13.6. Insurance.** The corporation shall purchase 
-and maintain insurance on behalf of any person who is or was 
+**Section 13.6. Insurance.** The corporation shall purchase and 
+maintain insurance on behalf of any person who is or was
 a director or officer of the corporation or, while a director 
 or officer of the corporation, is or was serving at the request 
 of the corporation as a director, officer, employee or agent 
