@@ -978,8 +978,8 @@ references to subsequent sections.
 **Section 13.8. Continued Coverage.** The indemnification and
 advancement of expenses provided by, or granted pursuant to this
 Article shall, unless otherwise provided when authorized or
-ratified, continue as to a person who has ceased to be a director,
-officer or member and shall inure to the benefit of the heirs,
+ratified, continue as to a person who has ceased to be a director
+or officer and shall inure to the benefit of the heirs,
 executors and administrators of such person.
 
 ARTICLE XIV 
