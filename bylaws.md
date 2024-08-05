@@ -241,15 +241,20 @@ Contributing Members and Fellows.
 
 **Section 4.2.  Voting Members.**  Members of any membership class 
 with voting rights must affirm each year to the corporation in writing
-that such member intends to be a voting member for such year.
+that such member intends to be a voting member for such year. The 
+corporation may choose to waive the affirmation requirement for any 
+member who has voted in the most recent preceding regular Board of 
+Directors election.
+
 References in these Bylaws to a "voting member" or to the "voting 
 members" of the corporation, or to the "members entitled to vote," 
 shall not include any Basic Member, but shall include 
 any other member with voting rights; provided that it shall not 
-include any member who (i) for any given year has 
-not affirmatively indicated to the corporation that such member intends 
-to be a voting member for such year, or (ii) has had such member's 
-voting privileges revoked pursuant to Section 4.12.
+include any member who (i) for any given year has not affirmatively 
+indicated to the corporation that such member intends to be a 
+voting member for such year and is not subject to a waiver of the 
+affirmation requirement, or (ii) has had such member's voting privileges
+revoked pursuant to Section 4.12.
 
 **Section 4.3. Admission of Members.** A person or organization 
 desiring membership must complete a written or electronic membership 
