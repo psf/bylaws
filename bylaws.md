@@ -1072,4 +1072,5 @@ History
 * Approved by the PSF board on February 19th, 2014.
 * Amendments adopted by vote of the membership, June 10, 2017.
 * Amendments adopted by vote of the membership, July 23, 2021.
+* Amendments adopted by vote of the PSF Board, July 26, 2024; effective August 10, 2024.
 
