@@ -879,40 +879,40 @@ ARTICLE XIII
 ----
 ### Indemnification of Officers and Directors  
 
-**Section 13.1. Right to Indemnification.** Each person who was or 
-is a party or is threatened to be made a party to any threatened, 
-pending or completed action, suit, or proceeding, whether civil, 
-criminal, administrative, or investigative (other than an action 
-by or in the right of the corporation), by reason of the fact that 
-he or she is or was a director, officer or member of the 
-corporation, or is or was serving at the request of the 
-corporation as a director, officer, employee, or agent of another 
-corporation, partnership, joint venture, trust, or other 
-enterprise, shall be entitled to indemnification against expenses 
-(including attorneys' fees), judgments, fines, and amounts paid 
-in settlement to the fullest extent now or hereafter permitted by 
-applicable law as long as such person acted in good faith and in 
-a manner that such person reasonably believed to be in or not be 
-opposed to the best interests of the corporation; provided, 
-however, that the corporation shall indemnify any such person 
-seeking indemnity in connection with an action, suit or proceeding 
-(or part thereof) initiated by such person only if such action, 
-suit or proceeding (or part thereof) was authorized by the Board 
-of Directors.
+**Section 13.1. Right to Indemnification.** The corporation 
+shall, to the fullest extent now or hereafter permitted by 
+applicable law, indemnify and hold harmless any person (a 
+“Covered Person”) who is made a party to, or threatened to
+be made a party to, any action, suit, or proceeding, whether 
+civil, criminal, administrative, or investigative (other 
+than an action by or in the right of the corporation) (a 
+“Proceeding”), by reason of the fact that he or she is or 
+was a director or officer of the corporation or, while a 
+director or officer of the corporation, is or was serving 
+at the request of the corporation as a director, officer, 
+employee, or agent of another corporation, partnership, 
+joint venture, trust, or other enterprise (including service
+with respect to employee benefit plans), against all 
+liability and loss suffered and expenses (including 
+attorneys' fees) reasonably incurred by the that person. 
+Notwithstanding the preceding sentence, the corporation 
+shall indemnify any such person seeking indemnity in 
+connection with an action, suit or proceeding (or part 
+thereof) initiated by such person only if such action, 
+suit or proceeding (or part thereof) was authorized by 
+the Board of Directors.
 
-**Section 13.2. Advance Payment of Expenses.**
-Expenses (including reasonable attorneys' fees) incurred by any
-person who is or was an officer, director or member of the
-corporation, or who is or was serving at the request of the
-corporation as an officer or director of another corporation,
-partnership, joint venture, trust or other enterprise, in defending
-any civil, criminal, administrative or investigative action, suit or
-proceeding, shall be paid by the corporation in advance of the final
-disposition of such action, suit or proceeding upon receipt of an
-undertaking by or on behalf of such person to repay such amount if
-it is ultimately determined that he or she is not entitled under
-applicable law to be indemnified by the corporation.
-
+**Section 13.2. Advance Payment of Expenses.** The corporation 
+shall pay the expenses (including reasonable attorneys' fees) 
+actually and reasonably incurred by a Covered Person in 
+defending any Proceeding for which the Covered Person is 
+entitled to indemnification under Section 13.1 in advance 
+of its final disposition, upon (a) written request from such 
+person and (b) receipt of an undertaking by or on behalf of 
+such person to repay all amounts advanced if it is ultimately
+determined that he or she is not entitled under applicable 
+law to be indemnified by the corporation.
+    
 **Section 13.3. Right of Claimant to Bring Suit.** If a claim 
 under this Article is not paid in full by the corporation within 
 ninety (90) days after a written claim has been received by the 
@@ -946,7 +946,7 @@ shall be a contract between the corporation and each director,
 officer or member to which this Article applies. No repeal or 
 modification of these Bylaws shall invalidate or detract from any 
 right or obligation with respect to any state of facts existing 
-prior to the time of such repeal or modification.
+prior to the time of such repeal or modification. 
 
 **Section 13.5. Rights Non-exclusive.** The indemnification and 
 advancement of expenses provided by or granted pursuant to this 
@@ -958,52 +958,29 @@ her official capacity and as to action in another capacity while
 holding such office.
 
 **Section 13.6. Insurance.** The corporation shall purchase and 
-maintain insurance on behalf of any person who is or was a director, 
-officer, member, employee or agent of the corporation, or is or was 
-serving at the request of the corporation as a director, officer, 
-employee or agent of another corporation, partnership, joint 
-venture, trust or other enterprise against any liability asserted 
-against him or her and incurred by him or her in any such capacity, 
-or arising out of his or her status as such, whether or not the 
-corporation would have the power to indemnify him or her against 
-such liability under the provisions of this Article or of 
-applicable law. The corporation shall purchase and maintain general 
-liability insurance, supplemented as necessary to cover any special 
-events the corporation may hold.
+maintain insurance on behalf of any person who is or was
+a director or officer of the corporation or, while a director 
+or officer of the corporation, is or was serving at the request 
+of the corporation as a director, officer, employee or agent 
+of another corporation, partnership, joint venture, trust or 
+other enterprise against any liability asserted against him 
+or her and incurred by him or her in any such capacity, or 
+arising out of his or her status as such, whether or not the 
+corporation would have the power to indemnify him or her 
+against such liability under the provisions of this Article 
+or of applicable law. The corporation shall purchase and 
+maintain general liability insurance, supplemented as 
+necessary to cover any special events the corporation may hold.
 
-**Section 13.7. Definitions.** For purposes of this Article, 
-references to "the corporation" shall include, in addition to the 
-resulting corporation, any constituent corporation (including any 
-constituent of a constituent) absorbed in a consolidation or 
-merger which, if its separate existence had continued, would have 
-had power and authority to indemnify its directors, officers, and 
-employees or agents, so that any person who is or was a director, 
-officer, employee or agent of such constituent corporation, or is 
-or was serving at the request of such constituent corporation as 
-a director, officer, employee or agent of another corporation, 
-partnership, joint venture, trust or other enterprise,
-shall stand in the same position under this Article with respect 
-to the resulting or surviving corporation as he or she would have 
-with respect to such constituent corporation if its separate 
-existence had continued, and references to "other enterprises" 
-shall include employee benefit plans; references to "fines" shall
-include any excise taxes assessed on a person with respect to any
-employee benefit plan; and references to "serving at the request
-of the corporation" shall include any service as a director,
-officer, employee or agent of the corporation which imposes duties
-on, or involves services by, such director, officer, employee, or
-agent with respect to an employee benefit plan, its participants, 
-or beneficiaries; and a person who acted in good faith and in a 
-manner he or she reasonably believed to be in the interest of the
-participants and beneficiaries of an employee benefit plan shall be
-deemed to have acted in a manner "not opposed to the best
-interests of the corporation" as referred to in this Article.
+**Section 13.7 Definitions.** The text of this section has 
+been removed, but the heading preserved, in order to maintain 
+references to subsequent sections.
 
 **Section 13.8. Continued Coverage.** The indemnification and
 advancement of expenses provided by, or granted pursuant to this
 Article shall, unless otherwise provided when authorized or
-ratified, continue as to a person who has ceased to be a director,
-officer or member and shall inure to the benefit of the heirs,
+ratified, continue as to a person who has ceased to be a director
+or officer and shall inure to the benefit of the heirs,
 executors and administrators of such person.
 
 ARTICLE XIV 
@@ -1097,3 +1074,4 @@ History
 * Amendments adopted by vote of the membership, June 10, 2017.
 * Amendments adopted by vote of the membership, July 23, 2021.
 * Amendments adopted by vote of the membership, August 1, 2024.
+* Amendments adopted by vote of the PSF Board, July 26, 2024; effective August 10, 2024.
