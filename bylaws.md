@@ -235,26 +235,33 @@ ARTICLE IV
 
 ### Members
 
-**Section 4.1. Member Classes.** There are five (5) classes of members 
+**Section 4.1. Member Classes.** There are four (4) classes of members 
 of the corporation, denoted as Basic Members, Supporting Members, 
-Managing Members, Contributing Members and Fellows.
+Contributing Members and Fellows.
 
 **Section 4.2.  Voting Members.**  Members of any membership class 
 with voting rights must affirm each year to the corporation in writing
-that such member intends to be a voting member for such year.
+that such member intends to be a voting member for such year. The 
+corporation may choose to waive the affirmation requirement for any 
+member who has voted in the most recent preceding regular Board of 
+Directors election.
+
 References in these Bylaws to a "voting member" or to the "voting 
 members" of the corporation, or to the "members entitled to vote," 
 shall not include any Basic Member, but shall include 
 any other member with voting rights; provided that it shall not 
-include any member who (i) for any given year has 
-not affirmatively indicated to the corporation that such member intends 
-to be a voting member for such year, or (ii) has had such member's 
-voting privileges revoked pursuant to Section 4.12.
+include any member who (i) for any given year has not affirmatively 
+indicated to the corporation that such member intends to be a 
+voting member for such year and is not subject to a waiver of the 
+affirmation requirement, or (ii) has had such member's voting privileges
+revoked pursuant to Section 4.12.
 
 **Section 4.3. Admission of Members.** A person or organization 
 desiring membership must complete a written or electronic membership 
 application in such form as shall be adopted by the Board of Directors 
-from time to time. Upon submission of a membership application, the 
+from time to time. The applicant must abide by the corporation's Code 
+of Conduct and meet any other qualifications established by the Board 
+of Directors. Upon submission of a membership application, a qualified
 applicant shall be automatically admitted as a Basic Member unless such 
 member simultaneously fulfills the requirements to be admitted as a 
 member of another membership class.
@@ -286,42 +293,27 @@ corporation as of the adoption of these Bylaws shall automatically
 become a Supporting Member without any further action on the part of
 such member or the corporation.
 
-**Section 4.6. Managing Members.** To be eligible for membership as 
-a Managing Member, a person must declare their intention to be a 
-Managing Member to the corporation in writing, by e-mail or through 
-other electronic means approved by the Board of Directors and such 
-person must sign up for one or more of the corporation's Working 
-Groups as set forth in Article VII. In addition, all members of the 
-Board of Directors shall be deemed to be Managing Members.
-
-Each Managing Member shall spend at least five (5) hours per month 
-working in their Working Group(s) in order to maintain such member's 
-status as a Managing Member.
-
-Managing Members must certify through a method approved by the Board 
-of Directors, that such member continues to meet the requirements set 
-forth in this Section 4.6 in order to remain a Managing Member for the 
-following year.
-
-Managing Members have voting rights in the corporation and are 
-counted for the purposes of quorum at meetings of the members.
-
-The Board of Directors may, from time to time, create alternate 
-eligibility requirements for Managing Members.
+**Section 4.6. Managing Members.** All active Managing Members who 
+were eligible prior to the adoption of these Bylaws shall be 
+re-certified as Contributing Members as described in Section 4.7 of 
+these Bylaws.
 
 **Section 4.7. Contributing Members.** To be eligible for membership 
-as a Contributing Member, a person must declare their intention to be 
-a Contributing Member to the corporation in writing, by e-mail or
+as a Contributing Member, a person must apply in writing, by e-mail or
 through other electronic means approved by the Board of Directors
-and such person must commit to working at least five hours per month 
+and such person must commit to volunteering at least five hours per month 
 on projects that advance the mission of the Python Software 
-Foundation, where the work relates to the creation or maintenance of 
-open source software available to the public at no charge.
+Foundation, subject to any guidelines established by the Board of 
+Directors.
 
 Contributing Members must certify through a method approved by the 
 Board of Directors, that such member met and will continue to meet the 
 requirements set forth in this Section 4.7 in order to remain a 
 Contributing Member for the following year.
+
+Any software or other works of authorship produced as part of a 
+Contributing Member's certified volunteer work must be made available
+to the public at no charge under an open source license.
 
 Contributing Members have voting rights in the corporation and are
 counted for the purposes of quorum at meetings of the members.
@@ -354,7 +346,7 @@ such right in writing to the corporation.
 **Section 4.10. Voting Rights for Members of Multiple Membership 
 Classes.** In the event that a member qualifies as a member of more 
 than one membership class (e.g. a member is both a Supporting Member 
-and a Managing Member), such member shall only have one (1) vote with 
+and a Contributing Member), such member shall only have one (1) vote with 
 respect to any action requiring the approval of the members or certain 
 classes thereof.
 
@@ -383,6 +375,15 @@ the corporation.
 may be terminated by an affirmative vote of two-thirds (2/3) of the 
 members of the corporation who are present and eligible to vote at 
 the meeting.
+
+A Member's (including any Fellow's) membership may be terminated for 
+failure to meet any condition of membership (including violation of
+the Code of Conduct or non-payment of membership fees) by an 
+affirmative vote of the majority of the Board of Directors. The Board
+shall give the Member at least 15 days’ notice of the termination and
+the reasons for the termination, and an opportunity for the Member to 
+be heard by the Board, orally or in writing at the Board’s decision, 
+at least five days before the effective date of the termination.
 
 **Section 4.16. Effect of Withdrawal from or Termination of 
 Membership.** Upon any withdrawal from or termination of the 
@@ -1072,5 +1073,5 @@ History
 * Approved by the PSF board on February 19th, 2014.
 * Amendments adopted by vote of the membership, June 10, 2017.
 * Amendments adopted by vote of the membership, July 23, 2021.
+* Amendments adopted by vote of the membership, August 1, 2024.
 * Amendments adopted by vote of the PSF Board, July 26, 2024; effective August 10, 2024.
-
