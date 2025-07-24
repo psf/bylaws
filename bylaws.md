@@ -132,7 +132,7 @@ request from any voting member, a complete list of the members
 entitled to vote at the time the request is made. The list must be 
 in alphabetical order, showing the name and email address of record 
 of each voting member, and shall be made available subject to 
-conditions that enable the Corporation to fulfil its obligations 
+conditions that enable the Corporation to fulfill its obligations 
 under any relevant data privacy laws and otherwise protect the 
 rights and privacy of its members, provided that such conditions do 
 not impede the Voting Member from exercising rights established 
