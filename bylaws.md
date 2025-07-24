@@ -131,7 +131,13 @@ shall prepare and make available within five (5) days of written
 request from any voting member, a complete list of the members 
 entitled to vote at the time the request is made. The list must be 
 in alphabetical order, showing the name and email address of record 
-of each voting member.
+of each voting member, and shall be made available subject to 
+conditions that enable the Corporation to fulfill its obligations 
+under any relevant data privacy laws and otherwise protect the 
+rights and privacy of its members, provided that such conditions do 
+not impede the Voting Member from exercising rights established 
+under Section 3.3.
+
 
 **Section 3.9. Member Quorum.** Except as otherwise required by law, by the
 Certificate of Incorporation or by these Bylaws, one-third (1/3) of the
@@ -1075,3 +1081,4 @@ History
 * Amendments adopted by vote of the membership, July 23, 2021.
 * Amendments adopted by vote of the membership, August 1, 2024.
 * Amendments adopted by vote of the PSF Board, July 26, 2024; effective August 10, 2024.
+* Amendments adopted by vote of the PSF Board, July 8, 2025; effective July 23, 2025.
